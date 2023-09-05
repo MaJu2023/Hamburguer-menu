@@ -9,6 +9,9 @@ This project provides a customizable, responsive hamburger menu that can be easi
 - Smooth animation for menu toggling.
 - Mobile-friendly design.
 
+## Demo
+[Demo](https://maju2023.github.io/Hamburguer-menu/)
+
 ## Screenshots
 *Desktop Menu*
 
