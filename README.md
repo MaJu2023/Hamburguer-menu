@@ -10,11 +10,13 @@ This project provides a customizable, responsive hamburger menu that can be easi
 - Mobile-friendly design.
 
 ## Screenshots
+*Desktop Menu*
 
 ![Desktop Menu](images/screenshot1.jpg)
 
-*Desktop Menu*
+
+*Mobile Menu*
 
 ![Mobile Menu](images/screenshot2.jpg)
 
-*Mobile Menu*
+
